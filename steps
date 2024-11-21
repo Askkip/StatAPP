@@ -1,0 +1,10 @@
+creusez la différence entre RCP45 et RCP85
+finir les autres datasets 
+comment interpoler les missing values s'il y'en a
+
+faire les 1ères RL dus tyle housing sur température agrégé
+
+
+trouvez causalité dans série temporelle > différence :
+modèle VAR
+modèle de prédiction (ML, prédire la réallocation des assets)
